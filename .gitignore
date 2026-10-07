@@ -1,7 +1,29 @@
+# === LabVIEW ===
 *.lvlps
 *.aliases
 *.lvtmp
-.DS_Store
-Thumbs.db
-.vscode/
+*.vi.tmp
+*.lvbitx
+*.lvconf
+
+# === Dokumentacija (veliki fajlovi) ===
+*.pdf
+*.pptx
+*.ppt
+*.docx
+
+# === Arhive ===
 *.zip
+*.rar
+*.7z
+*.tar.gz
+
+# === Sistem ===
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === Editor ===
+.vscode/
+.idea/
+*.swp
