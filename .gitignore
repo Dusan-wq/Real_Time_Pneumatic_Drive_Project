@@ -1,0 +1,7 @@
+*.lvlps
+*.aliases
+*.lvtmp
+.DS_Store
+Thumbs.db
+.vscode/
+*.zip
