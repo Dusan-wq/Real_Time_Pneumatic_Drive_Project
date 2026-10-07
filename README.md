@@ -3,7 +3,7 @@
 Project for the **Real-Time Control Algorithms (Upravljački algoritmi u realnom vremenu)** course — control of a pneumatic system with three cylinders using LabVIEW and a cRIO controller.
 
 **Authors:** Luka Marić, Luka Mihajlović, Milan Rodić, Dušan Vukanić  
-**Professor:** Željko Kanović
+**Professor:** Željko Kanović, PhD
 
 ## Overview
 
